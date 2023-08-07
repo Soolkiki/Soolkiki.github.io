@@ -4,7 +4,3 @@
 
 layout: home
 ---
-
-# Welcome to BitBubble  
-
-Hello! My name is Ben. I'm an IT Professional and generalist who loves dabbling with technology, based in the United States. I have experience with network architecture, virtualization, cloud architecture and devops technologies.  
